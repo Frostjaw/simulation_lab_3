@@ -1,10 +1,6 @@
-﻿using Accord.Statistics.Distributions.Univariate;
-using Accord.Statistics.Testing;
-using MathNet.Numerics.Distributions;
+﻿using MathNet.Numerics.Distributions;
 using System;
-using System.Collections.Generic;
 using System.Drawing;
-using System.Linq;
 using System.Windows.Forms;
 
 namespace simulation_lab_3
